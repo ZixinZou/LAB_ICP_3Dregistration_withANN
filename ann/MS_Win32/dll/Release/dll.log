@@ -1,0 +1,20 @@
+﻿  ANN.cpp
+  bd_pr_search.cpp
+  bd_search.cpp
+  bd_tree.cpp
+  brute.cpp
+  kd_pr_search.cpp
+  kd_search.cpp
+  kd_split.cpp
+  kd_tree.cpp
+  kd_util.cpp
+  perf.cpp
+  Generating Code...
+  bd_fix_rad_search.cpp
+  kd_dump.cpp
+  kd_fix_rad_search.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\『M2-1』\『M2-1- Réalité augmentée et recalage 3D』\Labs\TP_ICP\ann\MS_Win32\dll\.\Release\dll.dll) does not match the Linker's OutputFile property value (D:\『M2-1』\『M2-1- Réalité augmentée et recalage 3D』\Labs\TP_ICP\ann\MS_Win32\bin\ANN.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(dll) does not match the Linker's OutputFile property value (ANN). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library .\Release\ANN.lib and object .\Release\ANN.exp
+  dll.vcxproj -> D:\『M2-1』\『M2-1- Réalité augmentée et recalage 3D』\Labs\TP_ICP\ann\MS_Win32\dll\.\Release\dll.dll
