@@ -13,5 +13,3 @@ This lab shows two version codes. One is the basic version, one is the ANN accel
 Include ann library.
 
 main function: icp_registration.cpp
-
-You can find detials in the report: TP_ICP_Report_ZixinZOU.docx
